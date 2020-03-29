@@ -55,3 +55,4 @@
 ### Entrepreneurship / Business
 - [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship-ebook/dp/B06XBRLXJC/ref=sr_1_2?crid=13OQ5S9OLUOIU&dchild=1&keywords=unscripted&qid=1585490694&s=digital-text&sprefix=unscrip%2Cdigital-text%2C159&sr=1-2)
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/ref=sr_1_3?crid=2HGS2MB4YCHQR&dchild=1&keywords=the+lean+startup&qid=1585490719&s=digital-text&sprefix=the+lean+st%2Cdigital-text%2C154&sr=1-3)
+- [Million Dollar Consulting](https://www.amazon.com/Million-Dollar-Consulting-Professionals-Practice-ebook/dp/B01DNEC4B2/ref=sr_1_3?crid=2RWQYQO92H8RA&dchild=1&keywords=million+dollar+consulting&qid=1585490764&s=digital-text&sprefix=million+d%2Cdigital-text%2C161&sr=1-3)
