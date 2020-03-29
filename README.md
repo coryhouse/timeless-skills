@@ -56,9 +56,6 @@ Books, blog posts, YouTube videos, Tweets.
 - [Make It Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013/ref=nodl_‬)
 - [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/B0031Q9ZWY/ref=sr_1_1?dchild=1&keywords=The+Checklist+manifesto&qid=1585489180&s=audible&sr=1-1)
 - [The Feynman Technique](https://fs.blog/2012/04/feynman-technique/)
-‪
-### Speaking 
-- [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit#what-should-i-read‬)
 
 ### Entrepreneurship / Business
 - [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.com/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship-ebook/dp/B06XBRLXJC/ref=sr_1_2?crid=13OQ5S9OLUOIU&dchild=1&keywords=unscripted&qid=1585490694&s=digital-text&sprefix=unscrip%2Cdigital-text%2C159&sr=1-2)
@@ -67,5 +64,5 @@ Books, blog posts, YouTube videos, Tweets.
 - [Think Like A Grand Master Entrepreneur- 2019 Driven Keynote](https://www.youtube.com/watch?v=jKQ7uOd0U_M&list=LLglh1DWaaMudW8_odew00qw&index=36&t=0s)
 
 ## Content I've Created
-
-- [
+- [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
+- [Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)
