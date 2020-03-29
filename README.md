@@ -1,6 +1,8 @@
 # Timeless Skills
 
 ‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
+
+Books, blog posts, YouTube videos, Tweets.
 ‪
 ### Logical Fallacies 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
@@ -28,6 +30,7 @@
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
 
 ### Personal Finance
+- [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936)
 - [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
 - [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/B0000547HR/ref=sr_1_1?dchild=1&keywords=The+Millionaire+Next+Door&qid=1585488564&s=books&sr=1-1)
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-ebook/dp/B07DP6YGVX/ref=sr_1_1?crid=SRO7UCYRCYTO&dchild=1&keywords=a+random+walk+down+wall+street&qid=1585490462&s=digital-text&sprefix=a+rand%2Cdigital-text%2C163&sr=1-1)
