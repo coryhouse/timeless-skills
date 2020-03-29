@@ -72,4 +72,4 @@ Books, blog posts, YouTube videos, Tweets.
 - [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
 - [Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)
 - [The Immutable Laws of Software and Life](https://app.pluralsight.com/library/courses/codemash-session-30/table-of-contents)
-- [The 7 Pillar Developer: A holistic approach to building an exceptional career](https://www.youtube.com/watch?v=Y4wnbkatj20)
+- [The 7 Pillar Developer: A Holistic Approach to Building An Exceptional Career](https://www.youtube.com/watch?v=Y4wnbkatj20)
