@@ -19,13 +19,13 @@
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 ‬
 ‪## Relationships
-- How to Win Friends and Influence People
+- [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
 ‪## Personal Finance
-- I Will Teach You To Be Rich
-- The Millionaire Next Door
-- The Simple Path to Wealth
-- Think and Grow Rich
+- [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
+- [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/B0000547HR/ref=sr_1_1?dchild=1&keywords=The+Millionaire+Next+Door&qid=1585488564&s=books&sr=1-1)
+- [The Simple Path to Wealth](https://www.amazon.com/Simple-Path-Wealth-Financial-Independence/dp/B0725RFDPY/ref=sr_1_1?dchild=1&keywords=The+Simple+Path+to+Wealth&qid=1585488592&s=audible&sr=1-1)
+- [Think and Grow Rich](https://www.amazon.com/Think-and-Grow-Rich/dp/B000XJNDVQ/ref=sr_1_1?dchild=1&keywords=Think+and+Grow+Rich&qid=1585488607&s=audible&sr=1-1)
 
 ## General Life Skills / Success
 - [How to Fail at Almost Anything and Still Win Big](
