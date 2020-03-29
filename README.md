@@ -39,6 +39,7 @@
 
 ‪### Learning Techniques
 - [Make It Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013/ref=nodl_‬)
+- [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/B0031Q9ZWY/ref=sr_1_1?dchild=1&keywords=The+Checklist+manifesto&qid=1585489180&s=audible&sr=1-1)
 ‪
 ### Speaking 
 - [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit#what-should-i-read‬)
