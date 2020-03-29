@@ -9,7 +9,7 @@
 ### Mental models 
 - [Farnam Street Mental Models](https://fs.blog/mental-models/‬)
 ‪
-### Sales and Negotiation
+### Sales / Persuasion / Negotiation
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without-ebook/dp/B0051SDM5Q/ref=sr_1_2?dchild=1&keywords=getting+to+yes&qid=1585489764&s=digital-text&sr=1-2)
 ‪
