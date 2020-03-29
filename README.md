@@ -10,6 +10,7 @@ Books, blog posts, YouTube videos, Tweets.
 ‪
 ### Mental models 
 - [Farnam Street Mental Models](https://fs.blog/mental-models/‬)
+- [Antifragile: Things That Gain from Disorder](Antifragile: Things That Gain from Disorder)
 ‪
 ### Sales / Persuasion / Negotiation
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
