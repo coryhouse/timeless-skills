@@ -43,7 +43,7 @@ Books, blog posts, YouTube videos, Tweets.
 
 ### General Life Skills / Success
 - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI/ref=sr_1_1?dchild=1&keywords=Essentialism&qid=1585489040&s=audible&sr=1-1)
-- [The Four Hour Work Week](https://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge-ebook/dp/B002WE46UW/ref=sr_1_1?crid=37LDCOKI273E1&dchild=1&keywords=the+four+hour+work+week&qid=1585490409&sprefix=the+four+h%2Caps%2C161&sr=8-1)
+- [The Four Hour Work Week: Escape 9-5, Live Anywhere, and Join the New Rich](https://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge-ebook/dp/B002WE46UW/ref=sr_1_1?crid=37LDCOKI273E1&dchild=1&keywords=the+four+hour+work+week&qid=1585490409&sprefix=the+four+h%2Caps%2C161&sr=8-1)
 - [How to Fail at Almost Anything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/B0813X2LFZ/ref=sr_1_1?dchild=1&keywords=How+to+Fail+at+Almost+Anything+and+Still+Win+Big&qid=1585488636&s=audible&sr=1-1)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/B009CMO8JQ/ref=sr_1_1?dchild=1&keywords=So+Good+They+Can%27t+Ignore+You&qid=1585488972&s=books&sr=1-1)
