@@ -28,7 +28,7 @@
 - [Think and Grow Rich](https://www.amazon.com/Think-and-Grow-Rich/dp/B000XJNDVQ/ref=sr_1_1?dchild=1&keywords=Think+and+Grow+Rich&qid=1585488607&s=audible&sr=1-1)
 
 ## General Life Skills / Success
-- [How to Fail at Almost Anything and Still Win Big](
+- [How to Fail at Almost Anything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/B0813X2LFZ/ref=sr_1_1?dchild=1&keywords=How+to+Fail+at+Almost+Anything+and+Still+Win+Big&qid=1585488636&s=audible&sr=1-1)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 
 ‪## Habits
