@@ -6,7 +6,7 @@ Books, blog posts, YouTube videos, Tweets.
 
 ## Why this list?
 1. I believe great content is worth re-consuming. So I'll refer back to this.
-1. To remind me of the concepts I most want to pass on to others.
+1. To help me share the concepts I most want to pass on to my children, and the world.
 1. To explore common threads in the content I've found most compelling.
 ‪
 ### Logical Fallacies 
