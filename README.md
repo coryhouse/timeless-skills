@@ -75,7 +75,7 @@ Books, blog posts, YouTube videos, Tweets.
 ## My Information Stream
 - [Here's what I subscribe to](https://github.com/coryhouse/ama/issues/11)
 
-## Timeless Content I've Created
+## "Timeless Skills" Content I've Created
 - [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
 - [Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)
 - [The Immutable Laws of Software and Life](https://app.pluralsight.com/library/courses/codemash-session-30/table-of-contents)
