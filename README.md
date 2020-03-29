@@ -44,6 +44,7 @@ Books, blog posts, YouTube videos, Tweets.
 - [How to Fail at Almost Anything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/B0813X2LFZ/ref=sr_1_1?dchild=1&keywords=How+to+Fail+at+Almost+Anything+and+Still+Win+Big&qid=1585488636&s=audible&sr=1-1)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/B009CMO8JQ/ref=sr_1_1?dchild=1&keywords=So+Good+They+Can%27t+Ignore+You&qid=1585488972&s=books&sr=1-1)
+- [How to Live on Twenty-Four Hours a Day](http://www.gutenberg.org/files/2274/2274-h/2274-h.htm)
 
 ### Habits
 - [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
@@ -63,3 +64,7 @@ Books, blog posts, YouTube videos, Tweets.
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/ref=sr_1_3?crid=2HGS2MB4YCHQR&dchild=1&keywords=the+lean+startup&qid=1585490719&s=digital-text&sprefix=the+lean+st%2Cdigital-text%2C154&sr=1-3)
 - [Million Dollar Consulting](https://www.amazon.com/Million-Dollar-Consulting-Professionals-Practice-ebook/dp/B01DNEC4B2/ref=sr_1_3?crid=2RWQYQO92H8RA&dchild=1&keywords=million+dollar+consulting&qid=1585490764&s=digital-text&sprefix=million+d%2Cdigital-text%2C161&sr=1-3)
 - [Think Like A Grand Master Entrepreneur- 2019 Driven Keynote](https://www.youtube.com/watch?v=jKQ7uOd0U_M&list=LLglh1DWaaMudW8_odew00qw&index=36&t=0s)
+
+## Content I've Created
+
+- [
