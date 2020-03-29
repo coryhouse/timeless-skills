@@ -22,6 +22,9 @@
 ### Psychology
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 
+### Philosophy
+- [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=sr_1_1?crid=JWMQYTCLVXH3&dchild=1&keywords=ego+is+the+enemy&qid=1585489894&s=digital-text&sprefix=ego+is+the%2Cdigital-text%2C153&sr=1-1)
+
 ### Personal Finance
 - [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
 - [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/B0000547HR/ref=sr_1_1?dchild=1&keywords=The+Millionaire+Next+Door&qid=1585488564&s=books&sr=1-1)
