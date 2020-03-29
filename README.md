@@ -24,6 +24,7 @@ Books, blog posts, YouTube videos, Tweets.
 
 ### Psychology
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
+- [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
 
 ### Philosophy
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=sr_1_1?crid=JWMQYTCLVXH3&dchild=1&keywords=ego+is+the+enemy&qid=1585489894&s=digital-text&sprefix=ego+is+the%2Cdigital-text%2C153&sr=1-1)
