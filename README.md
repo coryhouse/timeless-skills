@@ -29,6 +29,7 @@
 - [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
 - [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/B0000547HR/ref=sr_1_1?dchild=1&keywords=The+Millionaire+Next+Door&qid=1585488564&s=books&sr=1-1)
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-ebook/dp/B07DP6YGVX/ref=sr_1_1?crid=SRO7UCYRCYTO&dchild=1&keywords=a+random+walk+down+wall+street&qid=1585490462&s=digital-text&sprefix=a+rand%2Cdigital-text%2C163&sr=1-1)
+- [The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=sr_1_1_sspa?dchild=1&keywords=The+Millionaire+Fastlane&qid=1585490585&s=digital-text&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSUpCMEIxQ1g1WlRHJmVuY3J5cHRlZElkPUEwNTI1MzEzMkZYQlFWRlhOMUY4SiZlbmNyeXB0ZWRBZElkPUEwMDcyNzI5QlNDSkdHRkxSRTEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 - [The Simple Path to Wealth](https://www.amazon.com/Simple-Path-Wealth-Financial-Independence/dp/B0725RFDPY/ref=sr_1_1?dchild=1&keywords=The+Simple+Path+to+Wealth&qid=1585488592&s=audible&sr=1-1)
 - [Think and Grow Rich](https://www.amazon.com/Think-and-Grow-Rich/dp/B000XJNDVQ/ref=sr_1_1?dchild=1&keywords=Think+and+Grow+Rich&qid=1585488607&s=audible&sr=1-1)
 
