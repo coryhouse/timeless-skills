@@ -2,7 +2,7 @@
 
 ‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
 ‪
-### Logical fallacies 
+### Logical Fallacies 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
 - [PBS Logical Fallacies](https://www.youtube.com/playlist?list=PLtHP6qx8VF7dPql3ll1To4i6vEIPt0kV5)
 ‪
