@@ -3,6 +3,11 @@
 ‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
 
 Books, blog posts, YouTube videos, Tweets.
+
+## Why this list?
+1. I believe great content is worth re-consuming. So I'll refer back to this.
+1. To remind me of the concepts I most want to pass on to others.
+1. To explore common threads in the content I've found most compelling.
 ‪
 ### Logical Fallacies 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
