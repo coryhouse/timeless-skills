@@ -15,11 +15,11 @@
 ## Happiness
 - [The Happiness Advantage](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/B00435DZ7S/ref=sr_1_1?dchild=1&keywords=The+Happiness+Advantage&qid=1585488185&s=audible&sr=1-1)
 
-## Psychology
-- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
-‬
 ‪## Relationships
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+
+## Psychology
+- [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B07N48NM33/ref=sr_1_1?dchild=1&keywords=mindset&qid=1585488129&s=books&sr=1-1)
 
 ‪## Personal Finance
 - [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
@@ -35,7 +35,7 @@
 - [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)‬
 
-‪## Learning techniques
+‪## Learning Techniques
 - [Make It Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013/ref=nodl_‬)
 ‪
 ## Speaking 
