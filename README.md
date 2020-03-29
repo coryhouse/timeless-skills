@@ -28,6 +28,7 @@
 ### Personal Finance
 - [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
 - [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/B0000547HR/ref=sr_1_1?dchild=1&keywords=The+Millionaire+Next+Door&qid=1585488564&s=books&sr=1-1)
+- [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street-ebook/dp/B07DP6YGVX/ref=sr_1_1?crid=SRO7UCYRCYTO&dchild=1&keywords=a+random+walk+down+wall+street&qid=1585490462&s=digital-text&sprefix=a+rand%2Cdigital-text%2C163&sr=1-1)
 - [The Simple Path to Wealth](https://www.amazon.com/Simple-Path-Wealth-Financial-Independence/dp/B0725RFDPY/ref=sr_1_1?dchild=1&keywords=The+Simple+Path+to+Wealth&qid=1585488592&s=audible&sr=1-1)
 - [Think and Grow Rich](https://www.amazon.com/Think-and-Grow-Rich/dp/B000XJNDVQ/ref=sr_1_1?dchild=1&keywords=Think+and+Grow+Rich&qid=1585488607&s=audible&sr=1-1)
 
