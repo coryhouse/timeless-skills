@@ -47,6 +47,7 @@ Books, blog posts, YouTube videos, Tweets.
 - [The Millionaire Fastlane](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=sr_1_1_sspa?dchild=1&keywords=The+Millionaire+Fastlane&qid=1585490585&s=digital-text&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSUpCMEIxQ1g1WlRHJmVuY3J5cHRlZElkPUEwNTI1MzEzMkZYQlFWRlhOMUY4SiZlbmNyeXB0ZWRBZElkPUEwMDcyNzI5QlNDSkdHRkxSRTEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 - [The Simple Path to Wealth](https://www.amazon.com/Simple-Path-Wealth-Financial-Independence/dp/B0725RFDPY/ref=sr_1_1?dchild=1&keywords=The+Simple+Path+to+Wealth&qid=1585488592&s=audible&sr=1-1)
 - [Think and Grow Rich](https://www.amazon.com/Think-and-Grow-Rich/dp/B000XJNDVQ/ref=sr_1_1?dchild=1&keywords=Think+and+Grow+Rich&qid=1585488607&s=audible&sr=1-1)
+- [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 
 ### General Life Skills / Success
 - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Less/dp/B00IWYP5NI/ref=sr_1_1?dchild=1&keywords=Essentialism&qid=1585489040&s=audible&sr=1-1)
