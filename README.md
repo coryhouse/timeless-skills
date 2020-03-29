@@ -17,6 +17,7 @@ Books, blog posts, YouTube videos, Tweets.
 ‪
 ### Happiness
 - [The Happiness Advantage](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/B00435DZ7S)
+- [Matthew McConaughey - This Is Why You're Not Happy](https://www.youtube.com/watch?v=p0p1fjLPjYQ&list=LLglh1DWaaMudW8_odew00qw&index=107&t=0s)
 
 ### Relationships
 - [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
@@ -29,6 +30,7 @@ Books, blog posts, YouTube videos, Tweets.
 - [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?crid=1TSLTS6QPN9FN&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1585504030&sprefix=the+sub%2Caps%2C180&sr=8-1)
+- [Neil Gaiman 2012 Commencement Speech "Make Good Art"](https://www.youtube.com/watch?v=plWexCID-kA)
 
 ### Personal Finance
 - [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936)
@@ -63,6 +65,8 @@ Books, blog posts, YouTube videos, Tweets.
 - [Million Dollar Consulting](https://www.amazon.com/Million-Dollar-Consulting-Professionals-Practice-ebook/dp/B01DNEC4B2/ref=sr_1_3?crid=2RWQYQO92H8RA&dchild=1&keywords=million+dollar+consulting&qid=1585490764&s=digital-text&sprefix=million+d%2Cdigital-text%2C161&sr=1-3)
 - [Think Like A Grand Master Entrepreneur- 2019 Driven Keynote](https://www.youtube.com/watch?v=jKQ7uOd0U_M&list=LLglh1DWaaMudW8_odew00qw&index=36&t=0s)
 
-## Content I've Created
+## Timeless Content I've Created
 - [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
 - [Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)
+- [The Immutable Laws of Software and Life](https://app.pluralsight.com/library/courses/codemash-session-30/table-of-contents)
+- [The 7 Pillar Developer: A holistic approach to building an exceptional career](https://www.youtube.com/watch?v=Y4wnbkatj20)
