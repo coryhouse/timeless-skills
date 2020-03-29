@@ -78,7 +78,7 @@ Books, blog posts, YouTube videos, Tweets.
 - [Here's what I subscribe to](https://github.com/coryhouse/ama/issues/11)
 
 ## "Timeless Skills" Content I've Created
-- [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
+- [Public Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit)
 - [Becoming an Outlier](https://app.pluralsight.com/library/courses/career-reboot-for-developer-mind/table-of-contents)
 - [The Immutable Laws of Software and Life](https://app.pluralsight.com/library/courses/codemash-session-30/table-of-contents)
 - [The 7 Pillar Developer: A Holistic Approach to Building An Exceptional Career](https://www.youtube.com/watch?v=Y4wnbkatj20)
