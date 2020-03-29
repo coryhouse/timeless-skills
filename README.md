@@ -36,6 +36,7 @@
 ### Habits
 - [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)‬
+- [7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B01069X4H0/ref=sr_1_3?dchild=1&keywords=7+Habits+of+Highly+Effective+People&qid=1585489653&sr=8-3)
 
 ### Learning Techniques
 - [Make It Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013/ref=nodl_‬)
