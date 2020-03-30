@@ -39,6 +39,7 @@ Books, blog posts, videos, podcasts, and tweets.
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?crid=1TSLTS6QPN9FN&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1585504030&sprefix=the+sub%2Caps%2C180&sr=8-1)
 - [Neil Gaiman 2012 Commencement Speech "Make Good Art"](https://www.youtube.com/watch?v=plWexCID-kA)
+- [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc&list=LLglh1DWaaMudW8_odew00qw&index=441&t=0s)
 
 ### Personal Finance
 - [How to Get Rich (without getting lucky)](https://twitter.com/naval/status/1002103360646823936)
