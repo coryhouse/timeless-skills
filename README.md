@@ -2,7 +2,7 @@
 
 ‪These are the timeless skills I wish I’d learned in school, and the resources I recommend to learn them.
 
-Books, blog posts, YouTube videos, Tweets.
+Books, blog posts, videos, podcasts, and tweets.
 
 ## Why this list?
 1. I believe great content is worth re-consuming. So I'll refer back to this.
