@@ -5,9 +5,8 @@
 Books, blog posts, videos, podcasts, and tweets.
 
 ## Why this list?
+1. These are concepts that I want to pass on to my children, and share with the world.
 1. I believe great content is worth re-consuming. So I'll refer back to this.
-1. These are concepts that I want to pass on to my children, and the world.
-1. To explore common threads in the content I've found most compelling.
 ‪
 ### Logical Fallacies 
 - [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com‬)
