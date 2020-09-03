@@ -33,6 +33,7 @@ Books, blog posts, videos, podcasts, and tweets.
 
 ### Philosophy
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=sr_1_1?crid=JWMQYTCLVXH3&dchild=1&keywords=ego+is+the+enemy&qid=1585489894&s=digital-text&sprefix=ego+is+the%2Cdigital-text%2C153&sr=1-1) - Also, [superb short excerpt on Tim Ferriss Show](https://tim.blog/2018/06/05/the-tim-ferriss-show-transcripts-ryan-holiday-whats-important-to-you/)
+- [Derek Sivers - How to Thrive in an Unknowlable Future](https://sive.rs/d1t)
 - [Alan Watts - What Do You Desire](https://www.youtube.com/watch?v=JCUFs2qJ1bs)
 - [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
