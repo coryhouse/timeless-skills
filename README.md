@@ -32,10 +32,11 @@ Books, blog posts, videos, podcasts, and tweets.
 - [Scarcity: Why Having Too Little Means So Much](https://www.amazon.com/Scarcity-Having-Little-Means-Much/dp/B00ED5KZA8/ref=sr_1_1?crid=J178LDKK7ON2&dchild=1&keywords=scarcity+book&qid=1585511578&sprefix=scarcity%2Caps%2C161&sr=8-1)
 
 ### Philosophy
+- [How to Live by Derek Sivers](https://sive.rs/h)
 - [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=sr_1_1?crid=JWMQYTCLVXH3&dchild=1&keywords=ego+is+the+enemy&qid=1585489894&s=digital-text&sprefix=ego+is+the%2Cdigital-text%2C153&sr=1-1) - Also, [superb short excerpt on Tim Ferriss Show](https://tim.blog/2018/06/05/the-tim-ferriss-show-transcripts-ryan-holiday-whats-important-to-you/)
 - [Derek Sivers - How to Thrive in an Unknowlable Future](https://sive.rs/d1t)
 - [Alan Watts - What Do You Desire](https://www.youtube.com/watch?v=JCUFs2qJ1bs)
-- [This is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
+- [This is Water by David Foster Wallace](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - [Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life](https://fs.blog/2014/05/hunter-s-thompson-to-hume-logan/)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?crid=1TSLTS6QPN9FN&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1585504030&sprefix=the+sub%2Caps%2C180&sr=8-1)
 - [Neil Gaiman 2012 Commencement Speech "Make Good Art"](https://www.youtube.com/watch?v=plWexCID-kA)
