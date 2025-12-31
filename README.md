@@ -15,6 +15,7 @@ Books, blog posts, videos, podcasts, and tweets.
 ### Mental models 
 - [Farnam Street Mental Models](https://fs.blog/mental-models/‬)
 - [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/B00A2ZIZYQ/ref=sr_1_1?dchild=1&keywords=antifragile+nassim+taleb&qid=1585511912&sr=8-1)
+- [You've (Likely) Been Playing The Game of Life Wrong](https://www.youtube.com/watch?v=HBluLfX2F_k) - Normal distributions vs Power law distributions (Entrepreneurship is the latter - unlimited upside)
 ‪
 ### Sales / Persuasion / Negotiation
 - [To Sell Is Human](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/ref=nodl_‬)
